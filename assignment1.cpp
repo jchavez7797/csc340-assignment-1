@@ -1,13 +1,17 @@
+#include <vector>
+#include <algorithm>
 
-void genRndNums( vector<int>& v, int vec_size, int seed ) 
+using namespace std;
+
+void genRndNums(vector<int>& v, int vec_size, int seed )
 {
 }
 
-void printVec( const vector<int>& v, int vec_size )
+void printVec(const vector<int>& v, int vec_size )
 {
 }
 
-int main() 
+int main()
 {
     vector<int> v;
     genRndNums( v, 100, 9 );
@@ -16,3 +20,4 @@ int main()
 
     return 0;
 }
+
