@@ -1,8 +1,3 @@
-#include <vector>
-#include <algorithm>
-
-using namespace std;
-
 void genRndNums(vector<int>& v, int vec_size, int seed )
 {
 }
