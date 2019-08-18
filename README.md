@@ -35,4 +35,4 @@ assignment1.out”, which will put the output (including any error messages) in 
  
 •	Prepare your Makefile so that the TA only needs to invoke the command “make” to compile your source file and produce the executable file.  
  
-•	When your program is ready, submit your source file and Makefile to your TA by following the Assignment Submission Instructions located in blackboard
+•	When your program is ready, submit your source file and Makefile to your TA by following the Assignment Submission Instructions located in blackboard and here https://github.com/lschoeneman1/csc340-assignment-1/blob/master/Assignment%20Submission.pdf
