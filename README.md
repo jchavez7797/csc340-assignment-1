@@ -39,4 +39,4 @@ assignment1.out”, which will put the output (including any error messages) in 
 
  git tag FINAL 
  
- git push origin --tags   
+ git push origin 
