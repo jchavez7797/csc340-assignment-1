@@ -16,7 +16,7 @@ The main () routine is already provided for you. sort( ) function from the STL i
 Programming Notes: 
  
 •	This assignment only requires one source file “assignment1.cc”. This program only contains three functions: genRndNums, printVec, and main. main is already implemented. You can obtain the partially implemented assignment1.cc from the directory 
-https://github.com/lschoeneman1/csc340-assignment-1/tree/master. 
+https://classroom.github.com/a/xzK1b5nF
 
 You can download the files, or you can use git if you know how.  If you don’t, I would highly suggest taking a minute to learn the basics.  Here is a quick tutorial.
 https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/
